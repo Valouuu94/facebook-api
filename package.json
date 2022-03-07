@@ -1,0 +1,21 @@
+{
+  "name": "blog-api",
+  "version": "1.0.0",
+  "main": "main.js",
+  "scripts": {
+    "dev": "nodemon"
+  },
+  "devDependencies": {
+    "@babel/cli": "^7.16.8",
+    "@babel/core": "^7.16.12",
+    "@babel/node": "^7.16.8",
+    "@babel/preset-env": "^7.16.11",
+    "nodemon": "^2.0.15",
+    "prisma": "^3.8.1"
+  },
+  "dependencies": {
+    "@prisma/client": "^3.8.1",
+    "express": "^4.17.2",
+    "jsonwebtoken": "^8.5.1"
+  }
+}
