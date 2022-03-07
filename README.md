@@ -16,8 +16,8 @@
 ```sh
 ~/efrei/facebook-api ❯❯❯ cat -e .author
 {
-  firstName: "Dylan",
-  lastName: "DE SOUSA"
+  firstName: "Valentin",
+  lastName: "Roche"
 }
 ```
 
